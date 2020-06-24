@@ -1,0 +1,9 @@
+Question 1:
+Distance: 766.3019294713746, 650
+Flights: 32.90461218303965, 17
+Passengers: 2378.5876631455135, 656
+Seats: 3585.59578366396, 1147
+
+Question 2:
+Number of unwanted flights: 3123
+Will Mr & Mrs Smith be separated? Yes
